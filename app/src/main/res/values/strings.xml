@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Grameen-Light</string>
+    <string name="login">Login</string>
+    <string name="user_login">User Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="map">Map</string>
+    <string name="reports">Tracker</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="working">Working</string>
+    <string name="fused">Fused</string>
+    <string name="burning_in_day">Burning in Day</string>
+    <string name="energy_saved">Energy Saved</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="pole_audit_map">Pole Audit Map</string>
+    <string name="repair_status_tracker">Repair Status Tracker</string>
+    <string name="energy_impact">Energy Impact</string>
+    <string name="area">Area</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="total_fused">Total Fused</string>
+    <string name="pending_repairs">Pending Repairs</string>
+    <string name="all_village_reports">All Village Reports</string>
+    <string name="pending">Pending</string>
+    <string name="assigned">Assigned</string>
+    <string name="fixed">Fixed</string>
+    <string name="temple_road">Temple Road</string>
+    <string name="market_square">Market Square</string>
+    <string name="bus_stand">Bus Stand</string>
+    <string name="primary_school">Primary School</string>
+    <string name="main_street">Main Street</string>
+    <string name="west_gate">West Gate</string>
+    <string name="village_area">Village Area</string>
+    <string name="search_poles">Search Poles…</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://grameenlight.example.com/.well-known/assetlinks.json\" }]</string>
+</resources>

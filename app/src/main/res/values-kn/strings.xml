@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮೀಣ-ಬೆಳಕು</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="user_login">ಬಳಕೆದಾರ ಲಾಗಿನ್</string>
+    <string name="admin_login">ನಿರ್ವಾಹಕ ಲಾಗಿನ್</string>
+    <string name="map">ನಕ್ಷೆ</string>
+    <string name="reports">ಟ್ರ್ಯಾಕರ್</string>
+    <string name="dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="working">ಕೆಲಸ ಮಾಡುತ್ತಿದೆ</string>
+    <string name="fused">ಹಾನಿಯಾಗಿದೆ</string>
+    <string name="burning_in_day">ಹಗಲಿನಲ್ಲಿ ಉರಿಯುತ್ತಿದೆ</string>
+    <string name="energy_saved">ಉಳಿಸಿದ ಶಕ್ತಿ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="pole_audit_map">ಕಂಬದ ತಪಾಸಣೆ ನಕ್ಷೆ</string>
+    <string name="repair_status_tracker">ದುರಸ್ತಿ ಸ್ಥಿತಿ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="energy_impact">ಶಕ್ತಿಯ ಪ್ರಭಾವ</string>
+    <string name="area">ಪ್ರದೇಶ</string>
+    <string name="coordinates">ನಿರ್ದೇಶಾಂಕಗಳು</string>
+    <string name="admin_dashboard">ನಿರ್ವಾಹಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="total_fused">ಒಟ್ಟು ಹಾನಿಯಾದವುಗಳು</string>
+    <string name="pending_repairs">ಬಾಕಿ ಇರುವ ದುರಸ್ತಿಗಳು</string>
+    <string name="all_village_reports">ಎಲ್ಲಾ ಗ್ರಾಮ ವರದಿಗಳು</string>
+    <string name="search_poles">ಕಂಬಗಳನ್ನು ಹುಡುಕಿ…</string>
+    <string name="pending">ಬಾಕಿ ಇದೆ</string>
+    <string name="assigned">ನಿಯೋಜಿಸಲಾಗಿದೆ</string>
+    <string name="fixed">ದುರಸ್ತಿ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="temple_road">ದೇವಸ್ಥಾನದ ರಸ್ತೆ</string>
+    <string name="market_square">ಮಾರುಕಟ್ಟೆ ಚೌಕ</string>
+    <string name="bus_stand">ಬಸ್ ನಿಲ್ದಾಣ</string>
+    <string name="primary_school">ಪ್ರಾಥಮಿಕ ಶಾಲೆ</string>
+    <string name="main_street">ಮುಖ್ಯ ರಸ್ತೆ</string>
+    <string name="west_gate">ಪಶ್ಚಿಮ ದ್ವಾರ</string>
+    <string name="village_area">ಗ್ರಾಮದ ಪ್ರದೇಶ</string>
+</resources>

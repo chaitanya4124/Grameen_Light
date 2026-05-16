@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pole -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M37,80 V32 H41 V80 Z" />
+    <!-- Arm -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M41,35 H57 V39 H41 Z" />
+    <!-- Lamp Head -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M53,39 H65 L67,47 H51 Z" />
+    <!-- Light -->
+    <path
+        android:fillColor="#FFEE58"
+        android:pathData="M52,47 L66,47 L64,53 L54,53 Z" />
+    <!-- Simple Glow Circle -->
+    <path
+        android:fillColor="#40FFEE58"
+        android:pathData="M59,50m-12,0a12,12 0 1,1 24,0a12,12 0 1,1 -24,0" />
+</vector>

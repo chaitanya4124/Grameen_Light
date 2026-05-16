@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823650107116",
+    "firebase_url": "https://graphic-height-452306-c1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "graphic-height-452306-c1",
+    "storage_bucket": "graphic-height-452306-c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823650107116:android:583decc54e1201a58aefc9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823650107116-0g1prq9a2722eerd4ralacplgkplkpn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "18be88249f7ef94390b0b99232bbd9e662412ed9"
+          }
+        },
+        {
+          "client_id": "823650107116-4pt7i9pfohmq6of3cgt2c7b275ggfcli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4vlhHNBUN07v7rA9f--cB4MrjIJTY1lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823650107116-4pt7i9pfohmq6of3cgt2c7b275ggfcli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
